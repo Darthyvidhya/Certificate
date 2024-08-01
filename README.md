@@ -1,2 +1,2 @@
 # Certificate
-wadhwani foundation Certificate
+Wadhwani foundation Certificate
